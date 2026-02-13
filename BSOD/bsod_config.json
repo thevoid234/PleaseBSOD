@@ -1,0 +1,12 @@
+{
+    "face_text": ":3",
+    "face_size": 96,
+    "text_size": 26,
+    "stop_code": "I_Love_Coding",
+    "percentage": 100,
+    "bg_color": "#690f96",
+    "enable_shutdown": false,
+    "message": "Your PC ran into a problem and needs to restart.\nWe're just collecting some error info, and then we'll shut down.",
+    "is_old": false,
+    "classic_font": "Lucida Console"
+}
