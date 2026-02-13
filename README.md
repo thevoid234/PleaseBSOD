@@ -1,4 +1,4 @@
-# PleaseBSOD
+# Please ![BSOD](/New Project.png)
 A BSOD editor made in Python :3
 
 
